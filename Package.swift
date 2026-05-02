@@ -8,7 +8,11 @@ import Foundation
 #endif
 
 let defaultTraits: Set<String> = [
-    "JSON"
+    "JSON",
+    "Reloading",
+    "YAML",
+    "PropertyList",
+    "Logging"
 ]
 
 var traits: Set<Trait> = [
